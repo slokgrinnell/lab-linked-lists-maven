@@ -4,8 +4,7 @@ Code for a lab on implementing a simple list interface with doubly linked lists.
 
 Authors
 
-* Your Name Here
-* Your Name Here
+* Slok Rajbhandari
 * Samuel A. Rebelsky (starter code).
 
-This code may be found at <https://github.com/USERID/lab-linked-lists-maven>. The original code can be found at <https://github.com/Grinnell-CSC207/lab-linked-lists-maven>.
+This code may be found at <https://github.com/slokgrinnell/lab-linked-lists-maven>. The original code can be found at <https://github.com/Grinnell-CSC207/lab-linked-lists-maven>.
